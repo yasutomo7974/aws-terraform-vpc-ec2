@@ -5,7 +5,7 @@ Terraformを使用してAWSインフラをコードで構築しました。
 VPCからEC2まで一括でプロビジョニングできます。
 
 ## アーキテクチャ
-![構成図](terraform-vpc-ec2.png)
+![構成図](terraform-vpc.png)
 
 ## 使用サービス
 - Terraform（IaC）
